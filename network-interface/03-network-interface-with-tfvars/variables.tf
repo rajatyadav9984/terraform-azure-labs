@@ -1,0 +1,9 @@
+variable "rg_name" {}
+variable "location" {}
+variable "vnet_name" {}
+variable "address_space" {}
+variable "subnet_name" {}
+variable "subnet_address_prefixes" {}
+variable "nic_name" {}
+variable "ip_configuration_name" {}
+variable "private_ip_address_allocation" {}
